@@ -1,3 +1,5 @@
+// 2675 문자열 반복
+
 import java.util.Scanner;
 
 public class Main {
